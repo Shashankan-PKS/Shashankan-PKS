@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 style="font-style: italic">im Shashankan</h1>
+<h1>im Shashankan</h1>
 
 <!--
 **Shashankan-PKS/Shashankan-PKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
