@@ -269,7 +269,6 @@ nav li a:hover , .active{
     margin-top: 10%;
 }
 .project .slidercontainer .fileupload{
-    background-color: black;
     width: 100%;
     padding: 20px;
     display: flex;
