@@ -34,8 +34,6 @@ if (document.body.clientWidth < 500) {
     elementsToShow = 1;
 }else if(document.body.clientWidth < 900){
     elementsToShow = 2;
-}else if(document.body.clientWidth < 1400){
-    elementsToShow = 4;
 }
 
 let sliderContainerWidth = sliderContainer.clientWidth;
